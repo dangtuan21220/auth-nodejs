@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acbc"
+  },
+  "name": "iphone",
+  "price": 154,
+  "featured": true,
+  "company": "apple"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acbd"
+  },
+  "name": "iphone10",
+  "price": 1154,
+  "featured": true,
+  "company": "apple"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acbe"
+  },
+  "name": "watch",
+  "price": 204,
+  "company": "apple"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acbf"
+  },
+  "name": "watch10",
+  "price": 304,
+  "company": "apple"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acc0"
+  },
+  "name": "s20",
+  "price": 404,
+  "company": "samsung"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acc1"
+  },
+  "name": "s20",
+  "price": 505,
+  "company": "samsung"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acc2"
+  },
+  "name": "dell gaming",
+  "price": 501,
+  "company": "dell"
+},
+{
+  "_id": {
+    "$oid": "655db5f6ee96d5a67498acc3"
+  },
+  "name": "mi20",
+  "price": 701,
+  "company": "mi"
+}]

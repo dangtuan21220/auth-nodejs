@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "659cef9e123ef2b602799ab3"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$1XYrFzmxakyOMcw6VM8Mm.s1f5J5W1PdUDjaS1MFtUQW94EFPhXjy",
+  "isAdmin": true,
+  "createdAt": {
+    "$date": "2024-01-09T06:02:54.152Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T06:02:54.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659cf1fab6bbbee84792dfc6"
+  },
+  "username": "tuan1",
+  "email": "tuan1@gmail.com",
+  "password": "$2b$10$WY3DLE2/uG9kRDm2CPrjQeGzsGWs3rRBOOETvSWJK5XIq2./jhGs6",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-01-09T07:12:58.319Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T07:12:58.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659cf257b6bbbee84792dfc8"
+  },
+  "username": "tuan2",
+  "email": "tuan2@gmail.com",
+  "password": "$2b$10$pxlGEG/1xDCMxMgCdccdTOt1GIsGFl/hX21qIZevPILcBJOZawnLq",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-01-09T07:14:31.149Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T07:14:31.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659d067c4beb9404c1d1dc96"
+  },
+  "username": "tuan3",
+  "email": "tuan3@gmail.com",
+  "password": "$2b$10$oiGCyr7hP18Uj7Jc/rEBGOs9B969uNqjsKf7ilOI0xOviCWlKaTQG",
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2024-01-09T08:40:28.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-09T08:40:28.878Z"
+  },
+  "__v": 0
+}]
